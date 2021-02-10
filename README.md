@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhoc4&label=Profile%20views&color=0e75b6&style=flat" alt="mhoc4" /> </p>
 
-- 🔭 I’m currently working on [Dino Game Project](https://github.com/mhoc4/Dino-game-project)
+- 🔭 I’m currently working on [ACMJ Weather](https://github.com/mhoc4/Gerenciador-de-salas-de-reunioes-frontend)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Spring**
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **acmjpf@gmail.com**
-
-- ⚡ Fun fact **I like to put boots on dinosaurs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
