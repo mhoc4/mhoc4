@@ -15,6 +15,3 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mhoc4&show_icons=true&theme=dracula&locale=en" alt="mhoc4" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhoc4&show_icons=true&theme=dracula&locale=en&layout=compact&&count_private=true" alt="mhoc4" /></p>
-
