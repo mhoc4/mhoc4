@@ -16,5 +16,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mhoc4&show_icons=true&theme=dracula&locale=en" alt="mhoc4" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhoc4&show_icons=true&theme=dracula&locale=en&layout=compact&count_private=true" alt="mhoc4" /></p>
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@mhoc4" frameborder="0"></iframe>
 
