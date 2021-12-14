@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhoc4&label=Profile%20views&color=0e75b6&style=flat" alt="mhoc4" /> </p>
 
-- 🌱 I’m currently learning Centura/SQL Windows
+- 🌱 I’m currently learning Centura/SQLWindows
 
 - 💬 Ask me about **Java**
 
