@@ -12,6 +12,3 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arnaldocmjr" target="blank">LinkedIn</a></p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mhoc4&show_icons=true&theme=dracula&locale=en" alt="mhoc4" /></p>
